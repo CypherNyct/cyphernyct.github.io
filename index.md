@@ -21,8 +21,8 @@ title: Inicio
 <section>
   <h2 class="section-title">Secciones <span class="accent">/</span></h2>
   <div class="cards-grid">
-   <a href="{{ '/writeups/' | relative_url }}" class="card">
-  <h3 style="font-size: 2.5em;">[ Writeups ]</h3>
+   <a href="{{ '/writeups/' | relative_url }}" class="card" style="text-align: center;">
+  <h3 style="font-size: 2.0em;">[ Writeups ]</h3>
   
   <p>Resolución de máquinas CTF de DockerLabs, HackTheBox, TryHackMe y más.</p>
 </a>
