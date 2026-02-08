@@ -26,9 +26,8 @@ title: Inicio
   
   <p>Resolución de máquinas CTF de DockerLabs, HackTheBox, TryHackMe y más.</p>
 </a>
-    <a href="{{ '/apuntes/' | relative_url }}" class="card">
-      <div class="card-emoji">📓</div>
-      <h3>Apuntes</h3>
+     <a href="{{ '/apuntes/' | relative_url }}" class="card" style="text-align: center;">
+  <h3 style="font-size: 2.0em;">[ Apuntes ]</h3>
       <p>Notas de estudio sobre redes, Linux, eJPT y ciberseguridad en general.</p>
     </a>
     <a href="{{ '/cheatsheets/' | relative_url }}" class="card">
