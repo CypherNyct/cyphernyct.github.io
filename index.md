@@ -36,20 +36,5 @@ title: Inicio
       <h3>Cheatsheets</h3>
       <p>Referencias rápidas de herramientas: nmap, gobuster, escalada de privilegios...</p>
     </a>
-    <a href="{{ '/tutoriales/' | relative_url }}" class="card">
-      <div class="card-emoji">🔧</div>
-      <h3>Tutoriales</h3>
-      <p>Guías paso a paso sobre herramientas, configuraciones y laboratorios.</p>
-    </a>
-    <a href="{{ '/recursos/' | relative_url }}" class="card">
-      <div class="card-emoji">🔗</div>
-      <h3>Recursos</h3>
-      <p>Links útiles, herramientas recomendadas y material de estudio.</p>
-    </a>
-    <a href="{{ '/blog/' | relative_url }}" class="card">
-      <div class="card-emoji">✍️</div>
-      <h3>Blog</h3>
-      <p>Reflexiones, experiencias y mi camino en el mundo de la ciberseguridad.</p>
-    </a>
   </div>
 </section>
