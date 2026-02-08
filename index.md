@@ -21,11 +21,11 @@ title: Inicio
 <section>
   <h2 class="section-title">Secciones <span class="accent">/</span></h2>
   <div class="cards-grid">
-    <a href="{{ '/writeups/' | relative_url }}" class="card">
-      <div class="card-emoji">🏴</div>
-      <h3>Writeups</h3>
-      <p>Resolución de máquinas CTF de DockerLabs, HackTheBox, TryHackMe y más.</p>
-    </a>
+   <a href="{{ '/writeups/' | relative_url }}" class="card">
+  <h3 style="font-size: 2.5em;">[ Writeups ]</h3>
+  
+  <p>Resolución de máquinas CTF de DockerLabs, HackTheBox, TryHackMe y más.</p>
+</a>
     <a href="{{ '/apuntes/' | relative_url }}" class="card">
       <div class="card-emoji">📓</div>
       <h3>Apuntes</h3>
